@@ -7,7 +7,7 @@
     "start": "webpack serve"
   },
   "dependencies": {
-    "faker": "5.1.0",
+    "faker": "^5.1.0",
     "html-webpack-plugin": "5.1.0",
     "nodemon": "^2.0.12",
     "webpack": "5.4.0",
